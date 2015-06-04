@@ -250,7 +250,7 @@ public class AWSCodeDeployPublisher extends Publisher {
 
         workspace.zip(
                 new FileOutputStream(zipFile),
-                new DirScanner.Glob(this.includes, this.excludes)
+                new DirScanner.Full()
         );
 
         String key;

@@ -29,11 +29,10 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
-
   <scm>
-    <connection>scm:git:ssh://github.com/jenkinsci/aws-codedeploy-plugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/aws-codedeploy-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/aws-codedeploy-plugin</url>
+    <connection>scm:git:ssh://github.com/sneaky-tricky/aws-codedeploy-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/sneaky-tricky/aws-codedeploy-plugin.git</developerConnection>
+    <url>https://github.com/sneaky-tricky/aws-codedeploy-plugin</url>
     <tag>HEAD</tag>
   </scm>
 
